@@ -1,0 +1,6 @@
+{
+  "name": "DROP SOCIETY",
+  "description": "Premium Business Manager App for clothing businesses. Track inventory, orders, profit, expenses, and manage customer relations with offline-first Room persistence and real-time Material 3 reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
